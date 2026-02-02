@@ -1,0 +1,13 @@
+discord.py[voice]==2.6.4
+google-genai
+python-dotenv
+urllib3
+requests
+gTTS
+Pillow
+PyNaCl
+beautifulsoup4
+lxml
+selenium
+webdriver-manager
+FFmpeg
